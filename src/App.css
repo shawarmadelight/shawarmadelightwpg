@@ -114,9 +114,11 @@ video {
 /* Home Section */
 
 .App .MainBody .Home {
-  position: relative; /* Set position to relative */
+  position: relative;
+  /* Set position to relative */
   background-image: url("/src/website_data/Food_Images/Shawarma\ Wraps2.jpeg");
-  min-height: 100vh;  /* Use min-height instead of height */
+  min-height: 100vh;
+  /* Use min-height instead of height */
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -136,7 +138,8 @@ video {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.5); /* Adjust alpha value here */
+  background: rgba(255, 255, 255, 0.3);
+  /* Adjust alpha value here */
   pointer-events: none;
 }
 
@@ -434,6 +437,8 @@ video {
 .CateringInformation_Ph,
 .CateringInformation_Email {
   grid-column: span 4;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .CateringInformation_Date,
@@ -441,6 +446,8 @@ video {
 .CateringInformation_Location,
 .CateringInformation_Number {
   grid-column: span 3;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 @media (max-width: 1250px) {
