@@ -34,7 +34,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://shawarmadelight.github.io/shawarmadelightwpg/",
+  "homepage": "https://www.shawarmadelightwpg.com",
   "eslintConfig": {
     "extends": [
       "react-app",
