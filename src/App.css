@@ -538,6 +538,7 @@ video {
 .CateringInformation input[type="number"],
 .CateringInformation input[type="date"],
 .CateringInformation input[type="time"] {
+  -webkit-appearance: none;
    width: 100%;
    box-sizing: border-box; /* Ensures padding and border are included in the width */
 }
