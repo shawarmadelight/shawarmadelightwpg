@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shawarmadelightwpg/static/css/main.077f38c0.css",
+    "main.js": "/shawarmadelightwpg/static/js/main.6def0f36.js",
+    "static/media/Shawarma Wraps9.jpg": "/shawarmadelightwpg/static/media/Shawarma Wraps9.183fc33b4e12142b4aa8.jpg",
+    "static/media/Hummus Plate6.jpg": "/shawarmadelightwpg/static/media/Hummus Plate6.030386a04fc3ecab15c2.jpg",
+    "static/media/Hummus and Shawarma5.jpg": "/shawarmadelightwpg/static/media/Hummus and Shawarma5.127cf09699ca15cd98b1.jpg",
+    "static/media/Shawarma Wraps2.jpeg": "/shawarmadelightwpg/static/media/Shawarma Wraps2.daab2bbb1a085b1f67ea.jpeg",
+    "static/media/Falafel Wrap4.jpg": "/shawarmadelightwpg/static/media/Falafel Wrap4.32c341f76b9791ef233f.jpg",
+    "static/media/Chicken Shawarma Wrap3.jpg": "/shawarmadelightwpg/static/media/Chicken Shawarma Wrap3.8eff326b979cb2dea28f.jpg",
+    "static/media/Mixed Grill Mashawi Board8.jpg": "/shawarmadelightwpg/static/media/Mixed Grill Mashawi Board8.252ff2ce36209da64d33.jpg",
+    "static/media/Beef Shawarma Plate1.jpg": "/shawarmadelightwpg/static/media/Beef Shawarma Plate1.df6ffb525524297b57f3.jpg",
+    "static/media/Kabob Plate7.jpg": "/shawarmadelightwpg/static/media/Kabob Plate7.d17c90ca6d0091476568.jpg",
+    "static/media/Chicken Shawarma Combo2.jpg": "/shawarmadelightwpg/static/media/Chicken Shawarma Combo2.ba6c89b7ac0b5455ea0e.jpg",
+    "static/media/file.png": "/shawarmadelightwpg/static/media/file.ac7b0c4711ee0abc2e65.png",
+    "static/media/Logo-removebg-preview.png": "/shawarmadelightwpg/static/media/Logo-removebg-preview.b008547452324601a755.png",
+    "index.html": "/shawarmadelightwpg/index.html",
+    "main.077f38c0.css.map": "/shawarmadelightwpg/static/css/main.077f38c0.css.map",
+    "main.6def0f36.js.map": "/shawarmadelightwpg/static/js/main.6def0f36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077f38c0.css",
+    "static/js/main.6def0f36.js"
+  ]
+}
