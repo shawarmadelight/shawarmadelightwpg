@@ -359,7 +359,7 @@ function App() {
             </div>
             <div className='CateringInformation_Food'>
               <h1>Food and Beverage Requirements <span className='important_data'>*</span></h1>
-              <textarea name="foodRequirements" value={formData.foodRequirements} onChange={handleChange}></textarea>
+              <textarea type="text" name="foodRequirements" value={formData.foodRequirements} onChange={handleChange}></textarea>
               <p>*Please let us know about your dietary restrictions</p>
               <p>*Please allow a few days for us to follow up with more details and an estimated quote.</p>
             </div>
