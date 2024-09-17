@@ -117,6 +117,7 @@ video {
   background-image: url("/src/website_data/Food_Images/Shawarma\ Wraps2.jpeg");
   height: 100vh;
   width: 100%;
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -126,7 +127,6 @@ video {
   align-items: center;
   flex-direction: column;
   gap: 2rem;
-  overflow: hidden; /* Ensures no overflow of content outside the container */
 }
 
 .App .MainBody .Home::before {
@@ -168,15 +168,6 @@ video {
 @media (max-width: 1500px) {
   .App .MainBody .Home .WelcomeText p {
     margin: 0px 15rem;
-  }
-  
-  .App .MainBody .Home {
-    background-attachment: scroll;
-  }
-
-  .App .MainBody .Home::before {
-    position: fixed;
-    height: 100vh;
   }
 }
 
