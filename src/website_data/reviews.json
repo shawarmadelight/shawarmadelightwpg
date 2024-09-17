@@ -1,0 +1,870 @@
+[
+  {
+    "name": "Ilyas Esack Dawoodjee",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Best Arabic food in Winnipeg, loved it. 10/10 would go there everyday.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIK-Hp3cmZezOhOYaB16UZNAx13ikCZpvx__YHnZ-07tIasogP_=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Владислав Кудрявцев",
+    "stars": "4 stars",
+    "time": "23 hours ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIlFqdJqI41M3yhjyPlTjFcpqVKdOk6uJmfW9IblLh0RTvn6Vuv=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Francis Neil M.",
+    "stars": "5 stars",
+    "time": "2 days ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVOAC5AYah5_j0rgA_ejE8hNrTFyCD9O9FCFQHGKMkH0eLxWkg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Lyle Walld",
+    "stars": "5 stars",
+    "time": "3 days ago",
+    "comment": "Awesome food both times we've been here, with great service! The beef shawarma wrap is the best I've had.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXH9trNrztwtTLsr-1mdDVDlOU2GKMq4aNyDzPInDemYlkM92QA=w36-h36-p-rp-mo-ba4-br100"
+  },
+  {
+    "name": "Mark WilliamS",
+    "stars": "1 star",
+    "time": "5 days ago",
+    "comment": "I have enjoyed some amazing Shawarma from Ottawa to Calgary over the decades. This was not one that I fancied at all. I won't be back.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXijSMm4Wv9Rzd0xwVLPzJGU15j-8l4P2LP2b_43HOtgES3HjQ=w36-h36-p-rp-mo-ba2-br100"
+  },
+  {
+    "name": "Sergii Fefelov",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXW9GyBkb4AXAzeU8KwtZ7mqoZKfNJDYIuC80clvjNJFjEA62gd9w=w36-h36-p-rp-mo-ba4-br100"
+  },
+  {
+    "name": "Brianna Sul",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "Best family meal in the city so much food",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocI6STpHRGb7xlLHzQJe7LPB2FIrPx7q3SohnOc48L35O_LxljY=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Lyric",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "Best wrap I ever had",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVetdKkrUtlUU56RjDeJ9MupPq2-14fOrx0R08keFOrh0Yu_lUqKA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Mason Stoker",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "Great food keep it up",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLyiMnYQk5JHj-uG8MUG7x9m7P2Vju-CRaTvs_xQiVfx5IIdA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Brooklyn Sul",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "best food in the city",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKyE7C3mFtx9srkqxWWtSyh3F7XseIEpQbdH_5q1OfgtRmh=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Hayley SUL",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "Good food 😋 …",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocL7NtAzhMFtlsbXPZoid9yfNOK5dKA8jbbBd_sz9hLeDgMV7w=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Colton Seneshen",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "arabica restaurants has a competition 🔥🔥 …",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocL0gXSVHWEQkQcaqQuw_x4FK8ImkZWBLb-XzMCAaQK5zKjLUA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Diaz Redsky",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "best shawarma wrap",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVdaX_ufu1sk1lrJEPcJNPrT9_QjRupV65FrsF82MrpOJD3aRH6=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "agnes danttouze",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocL9Teyp8VKbBPcwG3_m0R33F2Nr2GvQ1EgKj3ULLsa4LK6I6A=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Noah",
+    "stars": "5 stars",
+    "time": "a week ago",
+    "comment": "The best in the city",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjWusfPCGsajoWMOyp-cgU7pMH-0B0RjIToGlxu2URrj_AduT6k=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Ahmad Tabanja",
+    "stars": "5 stars",
+    "time": "2 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKRdprctaCd2sUPQDtNvdKOV7PoH2LF4xn1ftkjef2eihcEMg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sammy Zeid",
+    "stars": "5 stars",
+    "time": "2 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVfl8QSrxvHpeOXLfbDH05xcec8gbf4Euc-2XV8GxT99-Cqwqo=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Kelly Van",
+    "stars": "5 stars",
+    "time": "2 weeks ago",
+    "comment": "Easily the best Shawarma in St. James, perhaps the city. We will be back for sure.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjX-g30IUWBaDrVovE_2XtOXObX1wMcM_guDH-rTIuIRjsxLwUKwJg=w36-h36-p-rp-mo-ba4-br100"
+  },
+  {
+    "name": "Ieman Zeid",
+    "stars": "5 stars",
+    "time": "2 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKwog9k1afZm_zTIaD5dg5YziLRUqK-e2SC5bgZoff06f_NXQ=w36-h36-p-rp-mo-ba2-br100"
+  },
+  {
+    "name": "Mo",
+    "stars": "5 stars",
+    "time": "3 weeks ago",
+    "comment": "AMAZING PLACE TO TAKE YOUR FAMILY AND FRIENDS HIGHLY RECOMMEND!!!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocI6obfZfcwQFfksgaa_9hH6EJI6WJH2bnwCnUb7t3pD7BpC2xw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Saeed Zaal",
+    "stars": "5 stars",
+    "time": "3 weeks ago",
+    "comment": "It was very wholesome and the service was amazing. I personally recommend this place.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUqMl5p_IPjmhUPHoWWSJ1pRYZyezR84DHXVvoVMjRt2KCPY7Q=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Adonis Glaud",
+    "stars": "5 stars",
+    "time": "3 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUb0VkkXUZ_ztr3InosSoG1L7CIGwTN2PwoNONCS6ohwbd1NK4=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Planet",
+    "stars": "5 stars",
+    "time": "4 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXsckC7eRcEtKwN8Zql8R6QnKPoByDbqAw2bnhOeoil0qA4lNIV=w36-h36-p-rp-mo-ba2-br100"
+  },
+  {
+    "name": "Robert J Mercredi",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "the best shawarma i had",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKixW28bEQvvLUrLQ7nPrzsPjDkYb0grP0mncOZXUevnUmN-w=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Landyn Cruz",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVXS-xNyKM8JJaL3uNxneUNchfzPoZ_Nbyemrxfpp86IE4MroI=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "kyrth arol",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "They were very kind and polite. Also super good food!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKuDNUp6xw9BbKBAMRkeEilS29YI85CoItxr-K3_gIK2GsP9A=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Charles Day",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Shawarma was so good, good price for tons of food. Service was great, quick and friendly. Will 100% come back again!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKQoXJCuCbmVVJSrv02rWaGINqhU9AeDzjx8OMMAp8Nj2FjRA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Xanderrrtrr",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "its good",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXTIhd1eduKKESLqvhgqiVkTx0HMZH5F__g_MBFKEm9qOqRrHU=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Milki Gemechu",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocK9WFKrpHG4epVXa4SP01UKNZ6zPpOiqJApkBsYBZAxUdFueg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Слава Гопкин",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjU8t_XZi-J1dMs9SoXGdqtWgpQ8t913mQIDR706V2cmJ3d7QdSO=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Hwanjin Choi",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Amazing Chicken Shawarma!! I’m really glad that I found this place.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJeoug6mzC650AdYiVETqgmP7d_xYJh8T7BhOegT59w9LeR=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Glen Doty",
+    "stars": "4 stars",
+    "time": "a month ago",
+    "comment": "We had take out, which was done about 2 minutes before what they’d said, which is good. The fries are good. The cheesesteak is not. The shawarma plate was a pretty decent meal, but short on pita chips for the tahini, which was quite neutral. The folks are nice, I’d say give them a try.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjV-JXcG2R4ws7-02Gh11FbhwurktDLIRWjOftYHrYYjEZEQSnpI=w36-h36-p-rp-mo-ba6-br100"
+  },
+  {
+    "name": "Maryna Maslii",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The best shawarma in Winnipeg!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUOvTEl8gytAEyaK_NFUQjYIdo6hrubsd9EVOidfpFSFCtErU-Y=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Ibraheem Dlishi",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Food 10/10\nService 10/10\nAtmosphere 10/10",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJtQDXB3EqHSQMfO3TwaLfg9ev9Dr0tfIX0FzrIahUKn7vG7A=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Carla Gregorio",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Great food and service! The owners are very nice and accomodating. Highly recommended!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIHAzdD3CR9nfeO70XFdBOSlYBZFhK-1-eIAG_OliRx6fl7Fw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Joyce Catenza",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "\"Delicious food and impeccable service. Every bite of the meat shawarmas and tabouli salad from the Mashawi platter bursting with flavor and they’re all artfully presented. The staff went above and beyond to ensure a memorable dining experience. I highly recommend!\"",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjW9g3VFTdYCO0sl42CxUgaKZ2XgLtIXtXjxhDLYWS-5ZvMQVv7p=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Donna",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Great-tasting food and excellent service! We ordered the family size mashawi platter and perfect for 6 of us with variety of  skewers, rice, salad and pita. We will definitely come back and we highly recommend the place. Reasonable price for authentic high-quality meal. It's a feast indeed!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXLFi6ckBC8aa1CZ3TTTbBpf7vedO25ZFEapfyRO7eviG_JhaPC=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Kams Auto",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Shawarma Delight and Habibi’s Café in St. James are the go-to spots for Middle Eastern cuisine in Winnipeg. Their succulent meats, flavorful falafels, and homemade hummus will transport your taste buds to a culinary paradise. Don't miss out …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUnaMB4AGQTk3C3iFAShFrMN0O3Gtg3hVH7VNrbN7eWfQm7hhL8=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "An1 none",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The best shawarma in Winnipeg, I recommend it to everyone!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjW0Nd0PpBmkQuSFWbKnrNIm_HdFrB8h8tr0ulKdQ3ctKOm8TRm6=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sammy Zeid",
+    "stars": "5 stars",
+    "time": "2 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVfl8QSrxvHpeOXLfbDH05xcec8gbf4Euc-2XV8GxT99-Cqwqo=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Anelle McLaughlin",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "What a little gem this place is. Husband and I both love shawarma and feel it stands up with the likes of Baraka and other familiar favourites. This place deserves to be a similar hit. It was some of the juiciest chicken I had and the …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjWuVFFRkcnT-kJbfJ2frsIEt16cfZptexyFPuXVZ6NDhNlMxfo=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Martyn Cook",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjWNn3BNbe5MN9BUAxGGnZH5b5QDzL1kBQx2UtGzqYzuPpioMCo=w36-h36-p-rp-mo-ba2-br100"
+  },
+  {
+    "name": "Komal Sethi",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXxs_acWQMHzaoZDwigH62996vpPJ_c4OVxJWwNlE-yk4PfGuuX=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Orion Reyes",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Very tasty and delicious, the plate was very generous, lots of meat and rice. We ordered the Mixed meat platter. Will definitely go back for more!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjWIhN9UmPm7hISotlvzujAkmOSYmpNi3BZP2P7LqtECb9RLKti-uw=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Amrita Gill",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Excellent proportions of food. We ordered the mixed platter. I was impressed with the amount of meat. It was accompanied by a fresh salad and delicious rice. The food was fresh, flavourful, and they gave us some hot sauce. Food was for sure …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjX9C1Moa5gIlA1OgxI8rEHTwAdOLq_dk0aUJbKUsy_htFh_SlM1Lg=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Janina Smithson",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The donair wrap was delicious 😋 best that I've had in Winnipeg …",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocISYAoRDDA_8lOpXtW6GaWNhLuwo1306tH-j3nHRW8ls6DGOg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Shawn Martinuk",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Ordered a chicken Shawarma as I've heard it is amazing. It did not disappoint. I've had Shawarma from a few other places and I've found my new favorite! So tasty and flavorful, I'm already looking forward to future visits to try more of the …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXH7MmH1fPQs8h5Xv4SvP13GFCIiRBEk3RiLmMccyQe7GX25tYL=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Abdurlahman Theb",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJRlojesp0mib1hNA3-So191ELT9EmPz_trZhRljq1iygLrXA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Maher Wahid",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "I tried the shawarma poutine for the first time and it was super tasty and filling. The service was fantastic!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjViyRRyE3iuHR6Pa9XkwhsBy7DNa1W8gHmoZ9Vbu0vN_89rvrfJ=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Moriah Kwiatkowsko",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIbX7JRv2F73RoZwvqYfVWgNvi-PjDh4oei3WM2o8bZB-xrfA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Francis Delgado",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Amazing food and even better service! 100/10",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKLP4RoZ21VU-mfapgCNlgiGGqhuu6z_LOXILOxKxzjsaIn=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "julia B",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "-Staff are friendly\n-Space is clean\n-we ordered beef platter and chicken wrap both tasted great! Will recommend this place to others!!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJ3_MH2-XOcv4CEdq7QyCa9IDt5U7JjSD7D4Jme8tsIq0muRg8=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Ilyas Esack Dawoodjee",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Best Arabic food in Winnipeg, loved it. 10/10 would go there everyday.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIK-Hp3cmZezOhOYaB16UZNAx13ikCZpvx__YHnZ-07tIasogP_=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Raam Iyer",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIjvAZUzwbBgM7aHLiSC7JBZNtZDqYiFp201XX3dOuELEqdKSIl=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Teo Guven",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Amazing great tasting food",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjV_9NVLlu7efKi2NYNWVrJPqb_ycmL9pFH5IY-zatVdYBeE-gs=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "David Hayward",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The food was excellent - we had the falafel and beef schwarma. Everything tasted fresh and not salty. The owner was super friendly, would reccomend giving this place a try!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIhw1KNIi7OZSgAgEl5BOALfQ2KYUNDQariMh0KrupXvbMkqw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Jennifer Dennis",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Delicious and flavourful food with ample portions cooked hot and fast!\n\nOur fries (freshly cooked) were perfectly crisp and seasoned well on the …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVcBhuSgPGqz8zhimYwwc4XKMazDzffr2NaOir-UoeSka395Ss=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Non G",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The food was really good and the price is descent since the portion is pretty big. The place was really clean and the staff was super friendly\nWe got the beef shawarma and the pita donair and it was very flavourful\nOverall 10/10 would recommend :)",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUr88nfnDW_X9tEygXyYhLUeC1gsdfuKWvAGtBUNbbadTdtZE0=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Cheryl Reid",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "This was our first Shawarma experience in winnipeg, it was very good, large full of flavour tacos (3 tacos chicken) and a beef taco.  This is some where to go,  and get good food.  They have updated with main floor bathrooms so no problems with accessibility any more.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXGzY0qv_acuV1OrRCWGoXSW7Ihc4N7lo4RyLI8qK3_PNqMvB9c=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Norm Smith",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Was very good. Very good portions. I ordered the beef swarma combo, couldn't finish it. Will go back for sure. Young guy is the owner, very nice person.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUmQjCaA3HibCz7luwcOdxT6sWmYJ3GeveSi1S7td_waASMNeA=w36-h36-p-rp-mo-ba4-br100"
+  },
+  {
+    "name": "Liam Swain",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Very kind people, great interior, great food, would recommend",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIIuQzd6tyUPyjGzHpEYCDS7oTK1--WislIvWR4RfioGpopcw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "sameh hilu",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXsSLaWTDv6Byxfb4yRYCisqAgLk5f9SnTabuaLCtPFWcLFjjf5=w36-h36-p-rp-mo-ba4-br100"
+  },
+  {
+    "name": "captain hefter",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The best shawarma in winnipeg",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVtKZ52CmQ6xDKyLOt_X6WdnrfjRnGmWKFGgrWcIsvE81he3jHg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Braxton Niedermayer",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Komal was a really good at the counter and reminded me about the change and sami was a really good chef it came out fresh and soon",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLOyqTNd5tjERU-UraeEcF82VwyoRIeQmk9altnZArgk3-Lcw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Juan Arca",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "I love the curly fries Komal even reminded my friend about his change BEST SERVICE",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJkkWbSg2wFI89ULG5N9v5Kn1WwYSDmiLM3CUHsRiej_x1E1g=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Brian Sterzer",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXSceQhrztvk73XOxVxX2eEP8KgKXvGQvGDq_u3sZVAm6FKfGI3=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Paul Dixon",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Incredible food. Great portion sizes. Highly recommend anyone in Winnipeg to try the shawarma there. …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVlqXIsz7xKNzfnjRnp3FGVc3U21PyMoCN_1vRhqv2h3haD69ad_g=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sara S",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "As some one whos lived in the middle east for most of my life this shawarma is one of the best and authentic tasting shawarmas ive ever tried in my whole life and the service was amazing and they gave lots of attention to everyone but i …",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKfvTFe1pHG6AhG9SO0qUDBZlVyURmNgF8lSy5osNi8zM91RA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Bassam Abas",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Went for the first time and was very impressed with the food! The beef shawarma wrap was loaded, and all the food tasted fresh. Will definitely be going back with the whole family",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKUmU4v7UPwupYb0-o5_XVtex2RQ_ckdJVSoA8RtCiaYlp8hw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Nathan Rocan",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Tried the donair and it was solid, service was quick and friendly.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVAWaLeF3YRUdoqmor0gO85kbjQplUejJ0XiyDw4dh8RPijktIf=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sam Okuwila",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The best",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLnRBLdBrxCOVfAHGpwWQOpaGj4IWuCtmZqSaFPNtBOOBxK3w=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Leonne Machinski",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Second time coming here, and I love it! Great service, and wonderful.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLAkU8B7k4aLLDgrzIogI5aIhp8PlPJl90UtW69d3fbZIz5uA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "calder walker",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKBBQhN7A0iQdk1NoEff34CdggA2nge9jvgHh7BDnzAHAYcbg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Mohamed Eltassi",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Amazing food , staff , and all around a great time !",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKE0XJDVOfGYpnG309QbSyKgrR6Cuza3cbZv6BfahSf8ToJwQ=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Mohit Popli",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Best middle eastern cuisine in the city.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLjc-8NTWxC5v5zk3ZW_oIP8pNGXcf3Tfyy52f-G6i6rvih4A=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Donna Church",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The chicken shawarma was delicious! The flavours blended so well together and created a mouth watering experience. The portion was huge. It was difficult to stop eating even though I was full. I am very happy to have Shawarma Delight in our …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXmFW5H_2UeVPruSZT91hhSdqcR269iGxpgdDpcc6qB_jRwsA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Doug “Dougster” Black",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "First time ordering a beef shawarma with fries and a drink. Very delicious and very tasty. Highly recommend this place!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUdMSKMDM8hr440i6sa-fMRBrfVftD41Sw-gGfe9pFJEIwrKzs=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Julie T",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Just tried it last night, it was delicious!! Great addition to St. James.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIDbHJii8TKmDSZ6hvZGguE6yt4Fzab3OCTY7_nTXX6mWFJHw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Роман Ганоцький",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "very friendly staff, service at the best level, everything is very clean, everything is very tasty and bright in appearance",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJBIrGgo1HMwFjg_dL-vSKXYCRqR7pEklU0PmVk3RlFBJdZTw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Юр Чик",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Very tasty, nutritious and nicely",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjX0iRUZJOVHbIgTTT8V2Q2nPD3yJfc11aG36_Yk72hjG1hmGfQ=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Nick ObsiD (NickHik)",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The staff is friendly, the food is delicious, there is a lot of choice! reasonable prices for every budget! I recommend this place for food lovers)",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUI4yBUNIfRZj4bgyf-D9GXxpwbceYhUAwRbTO31TY28_rDQFg=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Adam Zaid",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Absolutely the best shawarma in the city",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLu4eX-8YuT6xfXZW5nQZbQyzomTT1FC_ZO2MmMMs_Vtrptnw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Nolan Day",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Food was delicious service was great and they through in some free drinks. What else could you ask for!!!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKH3EnkPFfB_EEl3sfl2mVAjLekm9TJatV5VwTMAEtH_ESU0A=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Tyler Giesbrecht",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Was excited for this place to open and was not disappointed, the donair wrap was phenomenal, loved being able to sit at the bar table and look outside while eating; can’t wait to go back and try something else!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjX8QRm7Iwww9ghiZ1EJDgPEIzzIgbrEtoaPTSTk0gGTshIkC3Y=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "xD Magylen (Magylen)",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Very tasty shavukha",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXAZ9JOM1UEKYhz9x6zlPc0rci_saIlHYyO_QvirO3t4ZH-0qw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Coo Ray",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Amazing food and good service",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJGwi_IjfiWiCgM_-rDb3NOtF5-CGuOGcO2acGgvSgNUlKlBg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Ethan Malabanan",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Good food",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLr_2igCgsIDrF9G5mEESRFWWsuDuJlbpF5cBlCQKhInJEyCg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Joyal Jose",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Tasty Shawarma",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjXCkG1XKOy9o5YfEkqxhzdk1QDdIHuykFn9rrEup_DEElFgUV9Z=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Beverly Maria",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The restaurant was very clean, staff was friendly and food was great . there was a lot of choices on the menu , everything we ordered was fresh.  I will go back",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJrVY9q-_cBJI0hR78WSTrVAEbmDwRdtgqPL6EX_9R5SlT7NA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Tajnuba Khan Shoily",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjU9Jz47-wnJOjlahW2ph1Y0-XO5PfxaEpjF4uhKfBKGAcTThP2O=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Keiran Zziwa",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "Best Shawarma in the city",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIcVg4lbyEn92ubuprpkz27KH7ReWPrsMj3sFNxRP_MKRRGww=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Khaled Hossain",
+    "stars": "5 stars",
+    "time": "a month ago",
+    "comment": "The food is great and the meat was really juicy. I was surprised to see what the quantity you get for the price unlike most places (wrap=14$) . So you get quantity and quality for a good price. We tried the chicken shawerma, kebab wrap, …",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUlghEgV7V0sV1cW_8xdOy61aJqQ7_FUAVKpzJyeARklgIw0e8=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Richard Glenn",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "I stopped in for a take out chicken schwarma wrap and the customer service was top notch and very friendly.  The wrap was hot and fresh with quality ingredients and was seriously delicious,  I will definitely be back!  Great food and great service will have me coming back again and again!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKHJX2X6WkNiRreuz3zFr4xcit0eAFqfYzEKDGGyv5QqN1szg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Saad Ahmed",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Surprisingly good shawarma…highly recommend",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIkIKRUdXKkjFh3p-z-eWEWOVEqWI5O9KmsRpFx7iZJW9VDcA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Souf Hass",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Excellent food, especially the meat (chicken), hummus and salad mix",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIfgrsR1SUDY_J4-Go0aMALVPZ0k7mKyHtVuFzaSms1wSMjrA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Yousef Zeid",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJ4CQE43inywG9A-OajvfbISG8gO1MCxA3k1kPzmDxJDaxJ0g=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Ahmed K",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Had an excellent experience at their grand opening around 11 pm. The restaurant itself is very clean, the person behind the counter was so nice, and the food was delicious! We got two donair wraps, a donair platter, and a chicken platter. The food was fresh and really tasty! Would recommend giving them a try.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocK_uc8ZZbQ6C0f2JqRkmaFfTHjJzZYe1IftccZ5mymiiTgCCT7K=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sebastian",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Amazing shawarma 10/10 would recommend",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjWZq_DyBHXEzXP9Wpgzx4TztNA0X9uBnvTJwmbFmGqsFICuWrBx=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Matthew Holland",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "This is the best place in the world for food come here tonight Komal and sami",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUMVKSUah5mhakMHocTDIJoLka70WzFbg1XIZPSoNJabJ8vUx2U=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Ethan Tan",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "very nice workers and cozy atmosphere :)",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjV3cgRclclqhH5kcTxU2CpUnjiHfb-87_7mrSgWHIY9moFSqEA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Carl Quinto",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Komal and Sami are very lovely people. They were both very kind and showed dedication to their food. The food has the perfect amount of portion and they sell the meal for a cheap price. They both show hard work and dedication!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIW78HTChPAJkIyRsQYxEhpONFEN3RpjncF4d8CQjwAGcXM6A=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Joseph Peralta",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "komal was very nice and the food was fast and tasty.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjWfYBaRHxd6uMAFxB6yWCbz4R0Fn_CgI83lxulEYalyLOZZlVtv=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Lulu Lual",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJTQkZdVTffVA6mGJcX7mn_uMAZkavAqlpIpd27Fh-Z9pmrIQ=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "carl Openiano",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Very good food!\nKomal",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIf5H-afyoGyAUVb90B-3zEqkWTmxX8WkRl0QU8sxWpvQLmkA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "JhayRonn DeLeon",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Kind workers and amazing food options",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUWUW_0gZ_nWDzsBPIwxubWgI0WZ_C_tYhxrvepPIkU7YEXjvIQ=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Atnoki",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Really cool people, amazing food.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjV-Hh9NK0ax8gXuI1BbrihvCNG3YHT_Zt0x7j0--dZTR4kv0wAy=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Drix Bacani",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Its a nice cozy place with kind workers. Komal and Sami are really cool.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocI8af_cEoe-OXisk8uU1-yFP8fBA1wA0etzZHj0tl4mYz901w=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Erl Alindayu",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Great place! Food was top notch and the staff were very friendly especially Komal!",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKJg8J4zx-pDXvgBEguK2aeKVt5V4g7kAkw2uwWpj6jdOBOqA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Leiron Jimenez",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "very kind workers :)",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUce4U8w3wuXobiQvEjS7JrJJtNzdXXP_tmHK5PSGm_xCNfH10=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Remington Laba",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Great place",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUJHmbLwtcP13eW3pqn21rchcpVOAtRTiyrsNDn2qUcp1P-oIc=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sam Zaid",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocIZ__wFbwFOo4Vfks0uV5toNRlpBamRZoxdCZufYtdOj0qs4g=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Jasmine Grover",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Good food. We tried the mixed and shawarma wraps and platers. We also really enjoyed the shawarma poutine. Service was great!",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjUvjTeg0AVaUa5hGtoBqG3A1FTA1PrqmYmXY-XBnT6bN7ACtO1U=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Jaafar Alaoui medaghri",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Everything is great there, highly recommend",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVuv4dNwRmR6hTeB7Qe7DIRmwj1WWf6uj0F4wBuxN_Ai2reoss=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Hannan Hanania",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "The food was very good, great taste, fantastic hummus and tabulé salad was awesome. The food was prepared swiftly. The staff was super friendly and kind. Highly recommend.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVMW7Pa4uoDO3np2Mc-Vcl4c6ZP3jK0IjjjzHNr0g_6UohYtv7A=w36-h36-p-rp-mo-ba3-br100"
+  },
+  {
+    "name": "Thamir Hamad",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJzrOaVobcUTkjHRIeNkCuuH6NgSlqrNV6YdzYjQd00xOymDg=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Khairi Adi",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVfC6l9wILM2zdnhbITNWfeqyY4yyDbKjoxPI-1l9fa4IQUJTE=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "khalaf Abdo",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Respect",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKiMw_gBYZ6p7NZCUV5iSIog7kVoj0fYwJk1nxEF3_8f2kiiw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Talal Alfaraj",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJ2zFNkpeJxYNQwPLs4j4qbLqBCa00f-QwBvEj4QVybaLLg7Q=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Salih Naso",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocLDTCSnuTvHv2oNdf3cdJPQhwoH9UE0W4S6QASontVEKTnBrw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Carolyn Rose",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Meal was AMAZING!  Great portions, friendly service.\n\nCongratulations on your first day of opening. I will be back.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocKKWI5EqQXoMNs5uLkuLwpB4B6mIkm0YdWCtFvYSmSvfbfw5g=w36-h36-p-rp-mo-ba2-br100"
+  },
+  {
+    "name": "Dave",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "The place had a chill vibe, and I enjoyed my shawarma. 10/10 would recommend.",
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVBzBMGFp3DKrvQ7UjTHYhE7NX5Gqh7_bgZyb4QaavYl5PUrDvVZA=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Nagi Soriano",
+    "stars": "4 stars",
+    "time": "2 months ago",
+    "comment": "Guy was super chill and the place calm and quiet",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJoiF8M7G5YlxaIEmtcGlK7DtXL4GvU5stouZ9DLAEjQv9Fvw=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Micayla McNaughtan",
+    "stars": "5 stars",
+    "time": "2 months ago",
+    "comment": "Food was very tasty, and the menu has something for everyone! Will definitely be stopping by again, great addition to St.James.",
+    "imageSrc": "https://lh3.googleusercontent.com/a/ACg8ocJ6vlAP-ahj1xOPpEKwk8ewk4IqgtLg-YGSExV4VpW82BzG2g=w36-h36-p-rp-mo-br100"
+  },
+  {
+    "name": "Sammy Zeid",
+    "stars": "5 stars",
+    "time": "2 weeks ago",
+    "comment": null,
+    "imageSrc": "https://lh3.googleusercontent.com/a-/ALV-UjVfl8QSrxvHpeOXLfbDH05xcec8gbf4Euc-2XV8GxT99-Cqwqo=w36-h36-p-rp-mo-br100"
+  }
+]

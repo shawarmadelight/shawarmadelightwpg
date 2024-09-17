@@ -1,0 +1,140 @@
+.NavBar {
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    overflow: hidden;
+    background-color: black;
+    z-index: 100;
+}
+
+.NavBar:before {
+    content: "";
+    position: absolute;
+    top: 20%;
+    right: 0;
+    width: 5px;
+    height: 60%;
+    background-color: red;
+}
+
+.NavBar .LogoContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.NavBar .Logo {
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+}
+
+.NavBar .MenuSections {
+    display: flex;
+    flex-direction: column;
+    margin: 25px 35px;
+}
+
+.NavBar .MenuSections a {
+    padding: 10px 0px;
+    display: flex;
+    font-weight: bold;
+}
+
+.NavBar .MenuItems {
+    display: inline-block;
+    position: relative;
+    color: white;
+}
+
+.NavBar .MenuItems:after {
+    content: '';
+    width: 0px;
+    height: 2px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: yellow;
+    transition: 300ms;
+}
+
+.NavBar .MenuItems:hover:after {
+    width: 100%;
+}
+
+.NavBar .MenuItems:not(:hover):after {
+    right: 0;
+    left: auto;
+}
+
+.NavBar .Socials {
+    margin: 25px 35px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.NavBar .Socials>* {
+    padding: 10px 0px;
+    color: white;
+}
+
+.NavBar .Socials>*:not(.Links) {
+    font-size: 11px;
+}
+
+.NavBar .Socials .Links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.NavBar .Socials .Links .LinkLogo {
+    width: 40px;
+    font-size: 40px;
+    margin: 0px 10px;
+}
+
+.NavBar .Socials .Location:hover,
+.NavBar .Socials .Phone:hover {
+    color: red;
+}
+
+.NavBar .Socials p {
+    color: white;
+}
+
+.NavBar.open {
+    transform: translateX(0);
+}
+
+.NavBar.closed {
+    transform: translateX(-100%);
+}
+
+@media (min-width: 751px) {
+    .NavBar {
+        transform: translateX(0) !important;
+    }
+
+    .hamburger-icon {
+        display: none;
+    }
+}
+
+@media (max-width: 750px) {
+    .NavBar {
+        width: 300px;
+    }
+
+    .NavBar.open,
+    .NavBar.closed {
+        transition: transform 0.5s ease;
+    }
+
+    .hamburger-icon {
+        position: fixed;
+        z-index: 1000;
+        top: 10px;
+        left: 10px;
+    }
+}

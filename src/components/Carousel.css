@@ -1,0 +1,106 @@
+.carousel {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-button {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.carousel-content {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
+@media (max-width: 1799px) {
+    .carousel-content {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 1300px) {
+    .carousel-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 900px) {
+    .carousel-content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.carousel-card {
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    background: #fff;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    height: 350px;
+}
+
+@media (max-width: 600px) {
+    .carousel-card {
+        height: 250px;
+    }
+}
+
+.carousel-header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.carousel-image img {
+    width: clamp(25px, 3vw, 50px);
+    height: clamp(25px, 3vw, 50px);
+}
+
+.carousel-name-when {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.carousel-name {
+    font-weight: bold;
+    text-align: left;
+}
+
+.carousel-when {
+    color: rgb(143, 143, 143);
+}
+
+.carousel-review {
+    text-align: left;
+    margin-top: 1rem;
+}
+
+.carousel .stars {
+    display: flex;
+    align-items: center;
+}
+
+.carousel .stars .fa-star {
+    color: gold;
+    margin-right: 4px;
+    font-size: clamp(15px, 3vw, 30px);
+}
+
+.carousel-card p {
+    font-size: clamp(0.5rem, 3vw, 1rem);
+}

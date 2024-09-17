@@ -1,38 +1,532 @@
-.App {
-  text-align: center;
+:root {
+  --font-size-welcome-to-and-Title: 84px;
+  --font-size-home-text: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
+@media (max-width: 900px) {
+  :root {
+    --font-size-welcome-to-and-Title: 60px;
+  }
+}
+
+@media (max-width: 700px) {
+  :root {
+    --font-size-welcome-to-and-Title: 50px;
+    --font-size-home-text: 15px;
+  }
+}
+
+/* makes sizing simpler */
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* input[type="number"] {
+  -moz-appearance: textfield;
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+/* remove default spacing */
+/* force styling of type through styling, rather than elements */
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  /* color: black; */
+}
+
+/* dark mode user-agent-styles */
+
+html {
+  background-color: white;
+  scroll-behavior: smooth;
+}
+
+/* min body height */
+
+body {
+  min-height: 100vh;
+  font-family: "Philosopher", sans-serif;
+}
+
+/* responsive images/videos */
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+/* Split NavBar and MainBody */
+.App {
+  display: flex;
+}
+
+.MainBody {
+  margin-left: 300px;
+  width: 100%;
+}
+
+.hamburger-icon {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 15px;
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+  z-index: 10000;
+  background-color: black;
+  border: 2px solid black;
+}
+
+@media (max-width: 750px) {
+  .hamburger-icon {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .nav-links.active {
+    display: block;
+  }
+
+  .MainBody {
+    margin-left: 0px;
+    width: 100%;
+  }
+}
+
+/* Home Section */
+
+.App .MainBody .Home {
+  background-image: url("/src/website_data/Food_Images/Shawarma\ Wraps2.jpeg");
+  height: 100vh;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.App .MainBody .Home::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.5); /* Adjust alpha value here */
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.App .MainBody .Home p:nth-child(1) {
+  font-family: "Sacramento", cursive;
+  font-size: var(--font-size-welcome-to-and-Title);
+  color: black;
+  z-index: 99;
+}
+
+.App .MainBody .Home p:nth-child(2) {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 700;
+  font-size: var(--font-size-welcome-to-and-Title);
+  color: black;
+  z-index: 99;
+}
+
+.App .MainBody .Home p:nth-child(3) {
+  font-size: var(--font-size-home-text);
+  color: black;
+  font-family: "Philosopher", sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  margin: 0px clamp(5rem, 2vw, 20rem);
+  z-index: 99;
+}
+
+@media (max-width: 1500px) {
+  .App .MainBody .Home .WelcomeText p {
+    margin: 0px 15rem;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+@media (max-width: 1250px) {
+  .App .MainBody .Home .WelcomeText p {
+    margin: 0px 10rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .App .MainBody .Home .WelcomeText p {
+    margin: 0px 5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .App .MainBody .Home .WelcomeText p {
+    margin: 0px 2.5rem;
+  }
+}
+
+/*  Gallery Section */
+
+.App .MainBody .Gallery {
+  padding: clamp(2rem, 2vw, 5rem);
+}
+
+.App .MainBody .Gallery .GalleryTitle {
+  font-family: "Play Fair", serif;
+  font-size: clamp(1rem, 5vw, 2rem);
+  color: black;
+  margin: 0rem 0rem 2rem 0rem;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+}
+
+/*  Menu Section */
+
+.App .MainBody .Menu {
+  padding: clamp(2rem, 2vw, 5rem) 1rem;
+  background-image: url("/src/website_data/Food_Images/Shawarma\ Wraps2.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  font-family: "Play Fair", serif;
+}
+
+.App .MainBody .Menu .TheMenuTitle {
+  font-size: clamp(1rem, 5vw, 2rem);
+  color: #dadce0;
+  margin: 0rem 0rem 2rem 0rem;
+  display: flex;
+  justify-content: center;
+}
+
+.App .MainBody .Menu .MenuCards {
+  column-count: 3;
+  column-gap: 10px;
+}
+
+@media (max-width: 1250px) {
+  .App .MainBody .Menu .MenuCards {
+    column-count: 2;
+    column-gap: 10px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .App .MainBody .Menu .MenuCards {
+    column-count: 1;
+    column-gap: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .App .MainBody .Menu .MenuCards {
+    column-count: 1;
+    column-gap: 10px;
+  }
+}
+
+.App .MainBody .Menu .menuCard {
+  background-color: white;
+  padding: 1rem;
+  position: relative;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.App .MainBody .Menu .menuCard .menuSectionTitle {
+  font-size: clamp(1rem, 3vw, 2rem);
+  text-align: center;
+  margin: 2rem 0rem;
+  position: relative;
+  z-index: 0;
+}
+
+.App .MainBody .Menu .menuCard .menuSectionTitle::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 1px;
+  background-color: red;
+  z-index: 2;
+}
+
+.App .MainBody .Menu .menuCard .menuSectionTitle::after {
+  content: '';
+  position: absolute;
+  left: 12.5%;
+  top: -75%;
+  width: 75%;
+  height: 52.5px;
+  background-color: rgba(255, 255, 0, 0.5);
+  z-index: -1;
+}
+
+.App .MainBody .Menu .menuCard .menuItems {
+  display: flex;
+  margin-bottom: 1rem;
+  border-bottom: 1px dashed black;
+  padding-bottom: 1rem;
+}
+
+.App .MainBody .Menu .menuCard .menuItems .itemPrice {
+  flex: 1;
+  font-weight: 700;
+  font-size: clamp(0.625rem, 3vw, 1.125rem);
+}
+
+.App .MainBody .Menu .menuCard .menuItems .itemName {
+  flex: 2;
+  font-size: clamp(0.5rem, 3vw, 0.75rem);
+  ;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #4E4E4E;
+}
+
+.App .MainBody .Menu .menuCard .menuItems .foodName {
+  font-weight: 700;
+  font-size: clamp(0.75rem, 3vw, 1rem);
+  ;
+  text-transform: uppercase;
+  color: black;
+}
+
+/*  Reviews Section */
+
+.App .MainBody .Reviews {
+  padding: clamp(2rem, 2vw, 5rem) clamp(2rem, 2vw, 5rem) 0rem;
+}
+
+.App .MainBody .Reviews .ReviewHeader .TheReviewTitle {
+  font-size: clamp(1rem, 5vw, 2rem);
+  text-align: center;
+}
+
+.App .MainBody .Reviews .stars {
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 600px) {
+  #main {
+    flex-direction: column;
+  }
+}
+
+.Reviews .stars .fa-star {
+  color: gold;
+  margin-right: 4px;
+  font-size: clamp(15px, 3vw, 30px);
+}
+
+.Reviews .stars .fa-star:last-child {
+  margin-right: 12px;
+}
+
+
+/*  ContactUs Section */
+
+.App .MainBody .ContactUs {
+  padding: clamp(2rem, 2vw, 5rem) clamp(2rem, 2vw, 5rem) 0rem;
+}
+
+.info-window {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  background-color: black;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.info-window-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.info-window-address {
+  margin: 0;
+}
+
+.gm-style-iw-chr {
+  display: none !important;
+}
+
+.gm-style-iw-d {
+  overflow: hidden !important;
+}
+
+#ContactUs>div>div>div.gm-style>div:nth-child(1)>div:nth-child(2)>div>div:nth-child(4)>div>div>div>div.gm-style-iw.gm-style-iw-c {
+  padding: 0px;
+}
+
+#ContactUs>div>div>div.gm-style>div:nth-child(1)>div:nth-child(2)>div>div:nth-child(4)>div>div>div>div.gm-style-iw-tc::after {
+  background-color: black;
+}
+
+/* Corporate Catering Section */
+
+.App .MainBody .CorporateCatering {
+  padding: clamp(2rem, 2vw, 5rem) clamp(2rem, 2vw, 5rem) 2.5rem clamp(2rem, 2vw, 5rem);
+}
+
+.App .MainBody .CorporateCatering .CorporateCateringTitle {
+  font-family: "Play Fair", serif;
+  font-size: clamp(1rem, 5vw, 2rem);
+  color: black;
+  margin: 0rem 0rem 2rem 0rem;
+  display: flex;
+  justify-content: center;
+}
+
+.CateringInformation {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 20px;
+}
+
+.CateringInformation_Name,
+.CateringInformation_Ph,
+.CateringInformation_Email,
+.CateringInformation_Date,
+.CateringInformation_Time,
+.CateringInformation_Location,
+.CateringInformation_Number {
+  display: flex;
+  flex-direction: column;
+}
+
+.CateringInformation_Name,
+.CateringInformation_Ph,
+.CateringInformation_Email {
+  grid-column: span 4;
+}
+
+.CateringInformation_Date,
+.CateringInformation_Time,
+.CateringInformation_Location,
+.CateringInformation_Number {
+  grid-column: span 3;
+}
+
+@media (max-width: 1250px) {
+
+  .CateringInformation_Name,
+  .CateringInformation_Ph,
+  .CateringInformation_Email,
+  .CateringInformation_Date,
+  .CateringInformation_Time,
+  .CateringInformation_Location,
+  .CateringInformation_Number {
+    grid-column: span 6;
   }
-  to {
-    transform: rotate(360deg);
+}
+
+@media (max-width: 550px) {
+
+  .CateringInformation_Name,
+  .CateringInformation_Ph,
+  .CateringInformation_Email,
+  .CateringInformation_Date,
+  .CateringInformation_Time,
+  .CateringInformation_Location,
+  .CateringInformation_Number {
+    grid-column: span 12;
   }
+}
+
+.CateringInformation h1 {
+  margin-bottom: 5px;
+}
+
+.CateringInformation input,
+.CateringInformation textarea {
+  width: calc(100% - 2rem);
+  padding: 10px;
+  border: 1px solid #575757;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.CateringInformation_Food {
+  grid-column: span 12;
+}
+
+.CateringInformation_Food textarea {
+  width: calc(100% - 2rem);
+  height: 150px;
+  resize: vertical;
+}
+
+.CateringInformation h1 {
+  font-weight: 700;
+}
+
+.CateringInformation .important_data {
+  color: red;
+}
+
+.CateringInformation_Food p {
+  font-size: 0.75rem;
+  color: red;
+}
+
+.CorporateCatering .buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.CorporateCatering .submitButton {
+  display: flex;
+  justify-content: center;
+}
+
+.CorporateCatering button[type="button"] {
+  margin-top: 1rem;
+  padding: 10px 50px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.CorporateCatering button[type="button"]:hover {
+  background-color: #45a049;
 }
