@@ -1,0 +1,55 @@
+.Footer {
+    /* border: 2px solid black; */
+    padding: 0rem 5rem 2.5rem 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Footer .Logo {
+    width: 100px;
+    height: 100px;
+}
+
+.Footer .Socials {
+    display: flex;
+    flex-direction: column;
+}
+
+.Footer .Socials>* {
+    padding: 10px 0px;
+    color: black;
+}
+
+.Footer .Socials>*:not(.Links) {
+    font-size: 11px;
+}
+
+.Footer .Socials .Links {
+    display: flex;
+    align-items: center;
+}
+
+.Footer .Socials .Links .LinkLogo {
+    width: 40px;
+    font-size: 40px;
+    margin: 0px 10px;
+}
+
+.Footer .Socials .Links .LinkLogo:first-child {
+    margin-left: 0px;
+}
+
+.Footer .Socials .Location:hover,
+.Footer .Socials .Phone:hover {
+    color: red;
+}
+
+.Footer .Footer_OpeningHours .OpeningHoursTitle {
+    font-family: "Play Fair", serif;
+    font-size: 1.5rem;
+    color: black;
+    font-weight: 700;
+}
+

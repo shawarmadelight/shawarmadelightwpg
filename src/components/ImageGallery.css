@@ -1,0 +1,123 @@
+.ImageGallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.ImageGallery .EachImage {
+    position: relative;
+    overflow: hidden;
+}
+
+.ImageGallery .EachImage::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0);
+    transition: background .2s ease-in-out;
+    z-index: 9;
+}
+
+.ImageGallery .EachImage:hover::before {
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.ImageGallery img {
+    width: 100%;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    display: block;
+}
+
+.ImageGallery img:hover {
+    z-index: 10;
+    position: relative;
+}
+
+.ImageGallery h1 {
+    display: none;
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    background: rgba(255, 255, 0, 0.5);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    z-index: 20;
+    text-align: center;
+}
+
+.ImageGallery .EachImage:hover h1 {
+    display: block;
+}
+
+.fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.fullscreen img {
+    max-width: 50%;
+    max-height: 70%;
+}
+
+.fullscreen .close,
+.fullscreen .nav {
+    position: absolute;
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.fullscreen .close {
+    top: 20px;
+    right: 20px;
+}
+
+.fullscreen .nav.left {
+    left: 20px;
+}
+
+.fullscreen .nav.right {
+    right: 20px;
+}
+
+.fullscreen .image-info {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: clamp(0.6rem, 2vw, 1.2rem);
+    position: relative;
+    margin-top: 20px; /* Adjust as necessary for spacing */
+}
+
+.fullscreen .image-info .food-name {
+    text-align: left;
+}
+
+.fullscreen .image-info .image-index {
+    text-align: right;
+}
+
+body.no-scroll {
+    overflow: hidden;
+}
