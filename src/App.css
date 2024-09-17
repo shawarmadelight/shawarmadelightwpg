@@ -114,8 +114,9 @@ video {
 /* Home Section */
 
 .App .MainBody .Home {
+  position: relative; /* Set position to relative */
   background-image: url("/src/website_data/Food_Images/Shawarma\ Wraps2.jpeg");
-  height: 100vh;
+  min-height: 100vh;  /* Use min-height instead of height */
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -209,7 +210,7 @@ video {
   padding: clamp(2rem, 2vw, 5rem) 1rem;
   background-image: url("/src/website_data/Food_Images/Shawarma\ Wraps2.jpeg");
   background-attachment: fixed;
-  background-size: cover;
+  /* background-size: cover; */
   background-position: center;
   font-family: "Play Fair", serif;
 }
