@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.84344f37.css",
+    "main.css": "/static/css/main.cc83538b.css",
     "main.js": "/static/js/main.bb7230c3.js",
     "static/media/Shawarma Wraps9.jpg": "/static/media/Shawarma Wraps9.183fc33b4e12142b4aa8.jpg",
     "static/media/Hummus Plate6.jpg": "/static/media/Hummus Plate6.030386a04fc3ecab15c2.jpg",
@@ -15,11 +15,11 @@
     "static/media/file.png": "/static/media/file.ac7b0c4711ee0abc2e65.png",
     "static/media/Logo-removebg-preview.png": "/static/media/Logo-removebg-preview.b008547452324601a755.png",
     "index.html": "/index.html",
-    "main.84344f37.css.map": "/static/css/main.84344f37.css.map",
+    "main.cc83538b.css.map": "/static/css/main.cc83538b.css.map",
     "main.bb7230c3.js.map": "/static/js/main.bb7230c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.84344f37.css",
+    "static/css/main.cc83538b.css",
     "static/js/main.bb7230c3.js"
   ]
 }
