@@ -534,14 +534,10 @@ video {
   background-color: #45a049;
 }
 
-.CateringInformation input[type="name"],
-.CateringInformation input[type="phone"],
-.CateringInformation input[type="email"],
+.CateringInformation input[type="text"],
+.CateringInformation input[type="number"],
 .CateringInformation input[type="date"],
-.CateringInformation input[type="time"],
-.CateringInformation input[type="location"],
-.CateringInformation input[type="numberOfAttendees"],
-.CateringInformation input[type="foodRequirement"] {
+.CateringInformation input[type="time"] {
    width: 100%;
    box-sizing: border-box; /* Ensures padding and border are included in the width */
 }
