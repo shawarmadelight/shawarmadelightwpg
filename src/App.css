@@ -437,8 +437,6 @@ video {
 .CateringInformation_Ph,
 .CateringInformation_Email {
   grid-column: span 4;
-  width: 100%;
-  box-sizing: border-box;
 }
 
 .CateringInformation_Date,
@@ -446,8 +444,6 @@ video {
 .CateringInformation_Location,
 .CateringInformation_Number {
   grid-column: span 3;
-  width: 100%;
-  box-sizing: border-box;
 }
 
 @media (max-width: 1250px) {
@@ -536,4 +532,16 @@ video {
 
 .CorporateCatering button[type="button"]:hover {
   background-color: #45a049;
+}
+
+.CateringInformation input[type="name"],
+.CateringInformation input[type="phone"],
+.CateringInformation input[type="email"],
+.CateringInformation input[type="date"],
+.CateringInformation input[type="time"],
+.CateringInformation input[type="location"],
+.CateringInformation input[type="numberOfAttendees"],
+.CateringInformation input[type="foodRequirement"] {
+   width: 100%;
+   box-sizing: border-box; /* Ensures padding and border are included in the width */
 }
