@@ -295,9 +295,6 @@ function App() {
           <p>Welcome to</p>
           <p>SHAWARMA DELIGHT</p>
           <p className='WelcomeText'>At Shawarma Delight, we bring you a genuine and varied menu that showcases the vibrant tastes of Middle Eastern cuisine. Our inviting and cozy setting is ideal for unwinding and enjoying time with loved ones. We emphasize using fresh, premium ingredients to prepare meals that are as nutritious as they are flavorful. Whether you’re in the mood for a fulfilling dish or a cool beverage, Shawarma Delight is your go-to spot for all your culinary needs.</p>
-          {/* <div className='WelcomeText'>
-            <p>At Shawarma Delight, we bring you a genuine and varied menu that showcases the vibrant tastes of Middle Eastern cuisine. Our inviting and cozy setting is ideal for unwinding and enjoying time with loved ones. We emphasize using fresh, premium ingredients to prepare meals that are as nutritious as they are flavorful. Whether you’re in the mood for a fulfilling dish or a cool beverage, Shawarma Delight is your go-to spot for all your culinary needs.</p>
-          </div> */}
         </div>
         <div className='Gallery' id='Gallery'>
           <h1 className='GalleryTitle'>GALLERY</h1>
