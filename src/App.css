@@ -147,9 +147,9 @@ video {
   font-family: "Sacramento", cursive;
   font-size: var(--font-size-welcome-to-and-Title);
   color: white;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8), 
-                 0 0 20px rgba(0, 0, 0, 0.6), 
-                 0 0 30px rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8),
+    0 0 20px rgba(0, 0, 0, 0.6),
+    0 0 30px rgba(0, 0, 0, 0.4);
   z-index: 99;
 }
 
@@ -158,18 +158,18 @@ video {
   font-weight: 700;
   font-size: var(--font-size-welcome-to-and-Title);
   color: white;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8), 
-                 0 0 20px rgba(0, 0, 0, 0.6), 
-                 0 0 30px rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8),
+    0 0 20px rgba(0, 0, 0, 0.6),
+    0 0 30px rgba(0, 0, 0, 0.4);
   z-index: 99;
 }
 
 .App .MainBody .Home p:nth-child(3) {
   font-size: var(--font-size-home-text);
   color: white;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8), 
-                 0 0 20px rgba(0, 0, 0, 0.6), 
-                 0 0 30px rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.8),
+    0 0 20px rgba(0, 0, 0, 0.6),
+    0 0 30px rgba(0, 0, 0, 0.4);
   font-family: "Philosopher", sans-serif;
   font-style: italic;
   font-weight: 700;
@@ -548,7 +548,9 @@ video {
 .CateringInformation input[type="date"],
 .CateringInformation input[type="time"] {
   -webkit-appearance: none;
-   width: 100%;
-   height: 100%;
-   box-sizing: border-box; /* Ensures padding and border are included in the width */
+  appearance: auto;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  /* Ensures padding and border are included in the width */
 }
