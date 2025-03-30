@@ -162,7 +162,7 @@ function App() {
   };
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "REMOVED",
+    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY,
   });
 
   if (!isLoaded) {
